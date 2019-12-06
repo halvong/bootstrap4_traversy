@@ -1,5 +1,9 @@
 
+#url
+http://localhost:3000/sandbox
 
+#commands
+browser-sync start --server --files "*.html"
 
 #links
 #css
