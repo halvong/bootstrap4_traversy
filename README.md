@@ -1,5 +1,5 @@
 Traversy bootstrap 4, Packpub video
-12/17/2019, Tues 
+12/19/2019, Thurs 
 
 gulp start
 

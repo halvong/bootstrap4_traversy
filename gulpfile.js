@@ -15,4 +15,5 @@ gulp.task('start', function () {
     });
 
     gulp.watch("./social/*.html").on("change", reload);
+    gulp.watch("./css/*.css").on("change", reload);
 });
